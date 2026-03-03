@@ -11,3 +11,4 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 •Performed end-to-end data preparation using Excel, SQL, Power BI and Tableau.
 •Streamlined reporting workflows with automation and reusable templates.
 •Delivered insight-driven dashboard presentations.
+
