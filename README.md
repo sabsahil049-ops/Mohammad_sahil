@@ -94,7 +94,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 ---
 
 ## 🎯 Interests
-Activities That i Enjoy:
+  Activities That i Enjoy:
   
 - 📊 **Dashboard Design**  
 - 📈 **Data Analysis**  
