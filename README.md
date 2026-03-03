@@ -83,7 +83,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+  
 
 ---
 
