@@ -41,7 +41,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 - Implemented end-to-end automation using Google Sheets and Apps Script to streamline attendance tracking, payroll computation, and expense management workflows.
 
   ###  📸 Dashboard Preview
-<img src="attendanceform.png" width="700">
-<img src="expenseform.png" width="700">
-<img src="googleshhetdash.png" width="700">
+  <img src="attendanceform.png" width="700">
+  <img src="expenseform.png" width="700">
+  <img src="googleshhetdash.png" width="700">
 
