@@ -15,3 +15,8 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 •Delivered insight-driven dashboard presentations.
 
+---
+
+## 📊 Projects  
+
+
