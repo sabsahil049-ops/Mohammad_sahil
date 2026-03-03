@@ -88,7 +88,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ## 🎓 Education  
 - **Pre-University Course (PUC) – Commerce**  
-  *KSEAB Uttara Kannada*  
+  *KSEAB, Uttara Kannada*
 
   
 
