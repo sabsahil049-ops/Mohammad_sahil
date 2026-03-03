@@ -56,7 +56,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 - Performed trend and comparative analysis to identify top-performing and underperforming campaign types.
 - Transformed raw marketing data into actionable insights to support data-driven decision-making.
 
-  ###  📸 Dashboard Preview
+###  📸 Dashboard Preview
   <img src="emaildash1.png" width="700">
   
   <img src="emaildash2.png" width="700">
@@ -65,20 +65,20 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
   ---
 
-  ### 🔹 HR Analytics Dashboard - (MySQL + PowerBI)
+### 🔹 HR Analytics Dashboard - (MySQL + PowerBI)
 
  - Analysed organisation-wide employee data.
  - Identified diversity gaps and attrition patterns.
  - Created a consolidated HR dashboard for insights.
 
-   ###  📸 Dashboard Preview
+###  📸 Dashboard Preview
    <img src="hrdash1.png" width="700">
    
    <img src="hrdash2.png" width="700">
 
    ---
 
-   ## 🧠 Tools & Skills  
+ ## 🧠 Tools & Skills  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
