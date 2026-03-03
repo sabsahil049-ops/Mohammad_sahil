@@ -48,3 +48,13 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 <img src="googleshhetdash.png" width="700">
 
+---
+
+### HR Analytics Dashboard - (MySQL + PowerBI)
+
+- Analysed organisation-wide employee data.
+- Identified diversity gaps and attrition patterns.
+- Created a consolidated HR dashboard for insights
+
+  ###  📸 Dashboard Preview
+  
