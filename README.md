@@ -22,6 +22,6 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ### 🔹 Automated Fuel Cost optimization System  – (Advanced Excel + VBA)
 
-• Developed an Excel VBA Fuel Pricing System with automated currency and unit conversions.
-• Designed a professional data entry UserForm with real-time pricing calculations.
-• Built a structured database with auto-serial numbering and reporting functionality.
+- Developed an Excel VBA Fuel Pricing System with automated currency and unit conversions.
+- Designed a professional data entry UserForm with real-time pricing calculations.
+- Built a structured database with auto-serial numbering and reporting functionality.
