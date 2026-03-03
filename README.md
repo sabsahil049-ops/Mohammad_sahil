@@ -63,7 +63,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
   
   <img src="emaildash3.png" width="700">
 
-  ---
+---
 
 ### 🔹 HR Analytics Dashboard - (MySQL + PowerBI)
 
@@ -76,9 +76,16 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
    
    <img src="hrdash2.png" width="700">
 
-   ---
+---
 
- ## 🧠 Tools & Skills  
+## 🎓 Education  
+- **Pre-University Course (PUC) – Commerce**  
+  *KSEAB, Uttara Kannada*
+
+---
+
+  
+## 🧠 Tools & Skills  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
@@ -86,9 +93,45 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ---
 
-## 🎓 Education  
-- **Pre-University Course (PUC) – Commerce**  
-  *KSEAB, Uttara Kannada*
+## 🎯 Interests  
+- 📊 Dashboard Design  
+- 📈 Data Analysis  
+- 🎤 Singing & 🎒 Traveling
+
+---
+
+## 📫 Contact Details  
+*Let’s connect and see how we can make a difference together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:sabsahil049@gmail.com">sabsahil049@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 7829221859</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Honnavar, Karnataka</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+  
+
 
   
 
