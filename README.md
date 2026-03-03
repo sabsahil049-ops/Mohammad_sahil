@@ -82,10 +82,15 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
-  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
 
 ---
+
+## 🎓 Education  
+- **Pre-University Course (PUC) – Commerce**  
+  *KSEAB Uttara Kannada*  
+
+  
 
 
 
