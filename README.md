@@ -103,7 +103,7 @@ Activities That i Enjoy:
 ---
 
 ## 📫 Contact Details  
-*Let’s connect and see how we can make a difference together!*  
+*Let’s Connect and Build Smarter Solutions!*  
 
 <table>
   <tbody>
