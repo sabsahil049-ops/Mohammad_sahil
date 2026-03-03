@@ -57,4 +57,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 - Transformed raw marketing data into actionable insights to support data-driven decision-making.
 
   ###  📸 Dashboard Preview
+  <img src="emaildash1.png" width="700">
+  <img src="emaildash2.png" width="700">
+  <img src="emaildash3.png" width="700">
   
