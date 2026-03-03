@@ -39,3 +39,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 - Designed and deployed an automated workforce analytics system transforming raw attendance and expense data into structured, decision-ready dashboards.
 - Engineered dynamic reporting models with real-time filtering and KPI tracking to analyze employee utilization, payroll costs, and site-level performance.
 - Implemented end-to-end automation using Google Sheets and Apps Script to streamline attendance tracking, payroll computation, and expense management workflows.
+
+  ###  📸 Dashboard Preview
+  ![image](<img width="665" height="862" alt="attendaceform" src="https://github.com/user-attachments/assets/a0aafd6e-df02-4dd9-a5da-02fc4e751173" />)
+
