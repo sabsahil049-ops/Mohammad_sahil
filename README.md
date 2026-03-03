@@ -42,6 +42,6 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
   ###  📸 Dashboard Preview
 <img src="attendanceform.png" width="700">
-
-
+<img src="expenseform.png" width="700">
+<img src="googleshhetdash.png" width="700">
 
