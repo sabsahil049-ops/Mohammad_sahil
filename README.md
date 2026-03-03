@@ -50,7 +50,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ---
 
-### Email Marketing Campaign Dashboard - (Excel + PowerBI)
+### 🔹 Email Marketing Campaign Dashboard - (Excel + PowerBI)
 
 - Built an interactive Email Marketing Dashboard to track and analyze key KPIs such as CTR, Open Rate, Bounce Rate, and Unsubscribe Rate.
 - Performed trend and comparative analysis to identify top-performing and underperforming campaign types.
@@ -58,6 +58,20 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
   ###  📸 Dashboard Preview
   <img src="emaildash1.png" width="700">
+  
   <img src="emaildash2.png" width="700">
+  
   <img src="emaildash3.png" width="700">
+
+  ---
+
+  ### 🔹 HR Analytics Dashboard - (MySQL + PowerBI)
+
+ - Analysed organisation-wide employee data.
+ - Identified diversity gaps and attrition patterns.
+ - Created a consolidated HR dashboard for insights.
+
+   ###  📸 Dashboard Preview
+   <img src="hrdash1.png" width="700">
+   <img src="hrdash2.png" width="700">
   
