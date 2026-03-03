@@ -119,11 +119,11 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="sahil's resume 2026.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/mhdsahilsab">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
