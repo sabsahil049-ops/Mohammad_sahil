@@ -27,7 +27,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 - Built a structured database with auto-serial numbering and reporting functionality.
 
 ###  📸 Dashboard Preview
-![Project Screenshot](<img width="1843" height="767" alt="vba interface" src="https://github.com/user-attachments/assets/ae946229-7e0a-4878-8cb0-ad727fa38126" />
+![Project Screenshot](<img width="1843" height="767" alt="vba interface" src="https://github.com/user-attachments/assets/1cd25402-364a-459c-88ca-8304b0708c93" />
 )
 ![Project Screenshot](<img width="1389" height="887" alt="Screenshot 2026-03-03 210502" src="https://github.com/user-attachments/assets/a02210e8-6ab2-48dc-96c7-0805b79ce027" />)
 ![Project Screenshot](<img width="1856" height="377" alt="Screenshot 2026-03-03 210540" src="https://github.com/user-attachments/assets/a875b34c-dd72-4150-8cf3-76e56cc0f7cc" />)
