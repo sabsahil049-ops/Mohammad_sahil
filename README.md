@@ -117,7 +117,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
     </tr>
     <tr>
       <td>📍</td>
-      <td>Honnavar, Karnataka</td>
+      <td>Uttara Kannada, Karnataka</td>
     </tr>
     <tr>
       <td>⬇️</td>
