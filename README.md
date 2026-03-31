@@ -8,6 +8,8 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ---
 
+## 🧠 Tools & Skills
+
 |---|---|
 | **BI & Visualisation** | Power BI (DAX, Data Modelling), Tableau |
 | **Spreadsheets & Automation** | Advanced Excel (VBA, UserForms, Power Query, Pivot Tables), Google Sheets (Apps Script) |
