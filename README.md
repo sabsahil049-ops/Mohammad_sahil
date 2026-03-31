@@ -8,6 +8,17 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 
 ---
 
+|---|---|
+| **BI & Visualisation** | Power BI (DAX, Data Modelling), Tableau |
+| **Spreadsheets & Automation** | Advanced Excel (VBA, UserForms, Power Query, Pivot Tables), Google Sheets (Apps Script) |
+| **Databases** | MySQL, SQL (Joins, Subqueries, Aggregations) |
+| **Analytics** | Microsoft AI-assisted Analytics, RCM Analysis, KPI Design |
+| **Other** | MIS Reporting, ETL, Dashboard UI/UX, Stakeholder Reporting, Data Cleaning |
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=Google-Sheets&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA-217346?logo=Microsoft&logoColor=white)
+
+---
+
 ## 💼 Work Experience  
 
 ### 🔹  Data Analyst Intern — Rows & Columns · Calicut, Kerala
@@ -85,14 +96,6 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
 ---
 
   
-## 🧠 Tools & Skills  
-![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
-![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
-
----
-
 ## 🎯 Interests
   Activities That i Enjoy:
   
@@ -117,7 +120,7 @@ detail-oriented Data Analyst with hands-on experience in **Excel**, **Power BI**
     </tr>
     <tr>
       <td>📍</td>
-      <td>Uttara Kannada, Karnataka</td>
+      <td>Honnavar, Karnataka</td>
     </tr>
     <tr>
       <td>⬇️</td>
